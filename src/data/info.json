@@ -1,0 +1,20 @@
+[
+    {
+        "id":"12564",
+        "date":"01.01.2021",
+        "name":"John Doe",
+        "location": "Tel-Aviv"
+    },
+    {
+        "id":"7894654",
+        "date":"05.01.2021",
+        "name":"Many Dong",
+        "location": "Haifa"
+    },
+    {
+        "id":"54689746",
+        "date":"06.01.2021",
+        "name":"Say Tang",
+        "location": "Jerusalem"
+    }
+]
